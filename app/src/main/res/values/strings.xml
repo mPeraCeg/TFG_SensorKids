@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SensorKids</string>
+    <string name="navigation_title_profile">Profile</string>
+    <string name="navigation_title_ecg">ECG</string>
+    <string name="navigation_title_temp">Temperature</string>
+    <string name="navigation_title_settings">Settings</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!--LOGIN ACTIVITY-->
+    <string name="title">Sensor \n Kids!</string>
+    <string name="text_button">ENTER</string>
+
+    <!--MAIN ACTIVITY-->
+    <string name="nameTitle">Name</string>
+</resources>
